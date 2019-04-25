@@ -1,2 +1,1 @@
-# basaramart_dfy
-BasaraMart Website for iBeads
+Basara Mart Website for ibeads
